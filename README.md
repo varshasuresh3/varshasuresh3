@@ -20,7 +20,9 @@
 
 Passionate about building automation-driven, AI-powered, and cloud-ready applications that solve real-world problems.
 
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/varshasuresh3/varshasuresh3/blob/output/github-contribution-grid-snake.svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varshasuresh3) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Varsha Suresh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshasuresh383@gmail.com) 
 
