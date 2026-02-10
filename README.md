@@ -36,4 +36,6 @@ Passionate about building automation-driven, AI-powered, and cloud-ready applica
 ---
 [![](https://visitcount.itsvg.in/api?id=Varshasuresh3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/varshasuresh3/varshasuresh3/blob/output/github-contribution-grid-snake.svg)
