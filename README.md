@@ -1,5 +1,24 @@
 # 💫 About Me:
-I’m currently working on<br>Python full-stack applications, RPA automation projects, and cloud-based solutions using AWS.<br>👯 I’m looking to collaborate on<br>Open-source projects related to Python, RPA, AI, and cloud technologies.<br>🤝 I’m looking for help with<br>Advanced automation workflows, scalable backend systems, and deploying AI models on AWS.<br>🌱 I’m currently learning<br>TensorFlow, advanced RPA solutions, and cloud architecture with AWS.<br>💬 Ask me about<br>Python, REST APIs, RPA tools, AWS basics, and AI model development with TensorFlow.<br>⚡ Fun fact<br>I enjoy automating repetitive tasks and turning ideas into smart, scalable solutions
+👋 Hi, I'm Varsha Suresh
+
+💡 Python Developer | RPA Enthusiast | AWS & AI Learner
+
+---
+
+🚀 About Me
+
+- 🔭 Currently building Python full-stack applications, RPA automations, and cloud solutions on AWS
+- 👯 Open to collaborating on Python, RPA, AI, and automation projects
+- 🤝 Looking for guidance in advanced automation workflows and scalable backend systems
+- 🌱 Currently learning TensorFlow, advanced RPA, and AWS cloud architecture
+- 💬 Ask me about Python, REST APIs, RPA tools, AWS, and AI development
+- ⚡ Fun fact: I love turning repetitive tasks into smart, automated solutions
+
+---
+
+🎯 Career Focus
+
+Passionate about building automation-driven, AI-powered, and cloud-ready applications that solve real-world problems.
 
 
 ## 🌐 Socials:
